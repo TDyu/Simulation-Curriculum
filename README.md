@@ -1,6 +1,6 @@
 # Simulation-Curriculum （SE Project）
 # （以前軟工的作業）
-======
+
 1. 導入jar包的方法:
 http://blog.csdn.net/mazhaojuan/article/details/21403717 其中第三個
 
@@ -26,9 +26,9 @@ http://www.voidcn.com/blog/u011159417/article/p-6332101.html
 
 9. 目前因為搞不懂定位而相當於沒有繼承Course...完全沒用到Course裡的東西
 
-10.以.Switch進入模擬課表
+10. 以.Switch進入模擬課表
 
-11.結束模擬課表後，會回傳字串陣列，目前想法為存到所建的Course，以couse.setCourseName進入，但其實courseName和courseCode都設定了
+11. 結束模擬課表後，會回傳字串陣列，目前想法為存到所建的Course，以couse.setCourseName進入，但其實courseName和courseCode都設定了
 
 -----------------------------------------------
 尚未處理 : 

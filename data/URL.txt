@@ -1,0 +1,9 @@
+資訊 IECS http://www.iecs.fcu.edu.tw/wSite/publicfile/Data/f1470638754357.pdf
+          http://www.iecs.fcu.edu.tw/wSite/lp?ctNode=35145&mp=370201&idPath=34052_34106_35144
+電機 EE http://www.ee.fcu.edu.tw/wSite/publicfile/Attachment/f1443152104382.pdf
+        http://www.ee.fcu.edu.tw/wSite/ct?xItem=213683&ctNode=4585&mp=380101&idPath=4544_4582_4584
+電子 ECE 
+自控 AUTO http://www.auto.fcu.edu.tw/wSite/ct?xItem=142235&ctNode=4640&mp=390101&idPath=4601_4639
+通訊 CE http://www.ce.fcu.edu.tw/wSite/publicfile/Attachment/f1468998370632.pdf
+        http://www.ce.fcu.edu.tw/wSite/ct?xItem=228049&ctNode=26887&mp=480101&idPath=4715_4753_4755
+
